@@ -46,8 +46,8 @@ button:hover {
     border-bottom-left-radius: 0;
 }
 
-@media (min-width: 480px){
+@media (max-width: 480px){
     .message input {
-        width: 82%;
+        width: 80%;
     }
 }
